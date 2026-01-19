@@ -1,0 +1,208 @@
+{
+    "name": "NeonForge Studio",
+    "title": "3D Design Agency · Creative Excellence",
+    "taglinePhrases": [
+        "3D Visionaries",
+        "Neon Dreams",
+        "Digital Artistry",
+        "Creative Innovation"
+    ],
+    "location": "Los Angeles, CA",
+    "email": "hello@neonforge.studio",
+    "phone": "+1 (555) 123-4567",
+    "linkedin": "https://www.linkedin.com/company/neonforge-studio",
+    "github": "https://github.com/neonforge-studio",
+    "resumeUrl": "/resume/Abdallah_Salah_CV.pdf",
+    "skillsFlat": [
+        "Blender",
+        "Cinema 4D",
+        "3ds Max",
+        "Unreal Engine",
+        "Unity",
+        "Substance Painter",
+        "ZBrush",
+        "After Effects",
+        "Houdini",
+        "Octane Render"
+    ],
+    "projects": [
+        {
+            "title": "Arabic Handwritten Text Recognition",
+            "slug": "arabic-ocr",
+            "tags": [
+                "Computer Vision",
+                "Deep Learning",
+                "OCR"
+            ],
+            "blurb": "Deep learning model recognizing handwritten Arabic with high accuracy.",
+            "highlights": [
+                "94% accuracy on benchmark datasets",
+                "Custom CNN-LSTM architecture",
+                "Optimized for mobile deployment"
+            ],
+            "tech": [
+                "PyTorch",
+                "OpenCV",
+                "TensorFlow Lite"
+            ],
+            "image": "/images/arabic-ocr.png",
+            "repo": "https://github.com/yourusername/arabic-ocr",
+            "demo": "https://demo-url.com"
+        },
+        {
+            "title": "RAG Chatbot",
+            "slug": "rag-chatbot",
+            "tags": [
+                "NLP",
+                "LLM",
+                "RAG"
+            ],
+            "blurb": "Retrieval-augmented generation chatbot for domain-specific Q&A.",
+            "highlights": [
+                "OpenAI API integration",
+                "Vector search for knowledge retrieval",
+                "Web service deployment"
+            ],
+            "tech": [
+                "LangChain",
+                "Pinecone",
+                "FastAPI",
+                "React"
+            ],
+            "image": "/images/rag-chatbot.png",
+            "repo": "https://github.com/yourusername/rag-chatbot",
+            "demo": "https://demo-url.com"
+        },
+        {
+            "title": "Object Detection System",
+            "slug": "object-detection",
+            "tags": [
+                "Computer Vision",
+                "YOLO",
+                "Edge AI"
+            ],
+            "blurb": "Real-time object detection for edge devices.",
+            "highlights": [
+                "YOLOv8 with custom dataset",
+                "30+ FPS on Jetson Nano",
+                "TensorRT optimization"
+            ],
+            "tech": [
+                "PyTorch",
+                "YOLO",
+                "NVIDIA TensorRT",
+                "OpenCV"
+            ],
+            "lottie": "/assets/anim/object-detection.json",
+            "repo": "https://github.com/yourusername/object-detection"
+        }
+    ],
+    "labs": [
+        {
+            "title": "Neon City Animation",
+            "kind": "gif",
+            "src": "/images/labs/neon-city.gif",
+            "note": "Procedural animation demo"
+        },
+        {
+            "title": "Product Visualization",
+            "kind": "video",
+            "src": "/videos/product-demo.mp4",
+            "note": "Real-time rendering showcase"
+        },
+        {
+            "title": "Character Sculpt",
+            "kind": "image",
+            "src": "/images/labs/character-sculpt.webp",
+            "note": "ZBrush high-poly sculpt"
+        }
+    ],
+    "blog": [
+        {
+            "title": "Mastering Neon Lighting in Blender",
+            "slug": "neon-lighting-blender",
+            "tags": [
+                "Blender",
+                "Lighting"
+            ],
+            "read": "5 min",
+            "date": "2024-12-15"
+        },
+        {
+            "title": "Real-Time 3D for Web",
+            "slug": "realtime-3d-web",
+            "tags": [
+                "WebGL",
+                "Three.js"
+            ],
+            "read": "7 min",
+            "date": "2024-11-20"
+        },
+        {
+            "title": "Procedural Texturing Deep Dive",
+            "slug": "procedural-texturing",
+            "tags": [
+                "Texturing",
+                "Nodes"
+            ],
+            "read": "6 min",
+            "date": "2024-10-08"
+        }
+    ],
+    "certificates": [
+        {
+            "title": "Advanced 3D Visualization",
+            "issuer": "Gnomon School",
+            "year": "2023",
+            "credentialUrl": "https://gnomon.edu/certificate/123456",
+            "logo": "/images/certs/gnomon.png",
+            "takeaway": "Photorealistic rendering and compositing techniques."
+        },
+        {
+            "title": "Unreal Engine Certified",
+            "issuer": "Epic Games",
+            "year": "2022",
+            "credentialUrl": "https://www.unrealengine.com/certificate",
+            "logo": "/images/certs/unreal.png",
+            "takeaway": "Real-time 3D and virtual production workflows."
+        }
+    ],
+    "gallery": [
+        {
+            "title": "Neon Abstract",
+            "kind": "image",
+            "src": "/images/gallery/neon-abstract.webp"
+        },
+        {
+            "title": "Cyberpunk Scene",
+            "kind": "image",
+            "src": "/images/gallery/cyberpunk-scene.webp"
+        },
+        {
+            "title": "Product Render",
+            "kind": "image",
+            "src": "/images/gallery/product-render.webp"
+        }
+    ],
+    "about": {
+        "headline": "We Craft Digital Experiences That Glow",
+        "intro": "NeonForge Studio is a cutting-edge 3D design agency specializing in breathtaking visuals, immersive experiences, and brand-defining creative work.",
+        "blocks": [
+            {
+                "icon": "Sparkles",
+                "title": "Who We Are",
+                "text": "A team of passionate 3D artists, designers, and technologists pushing the boundaries of digital creativity."
+            },
+            {
+                "icon": "Target",
+                "title": "What We Do",
+                "text": "From product visualization to full-scale virtual environments, we bring your vision to life with stunning precision."
+            },
+            {
+                "icon": "Zap",
+                "title": "Our Process",
+                "text": "Collaboration-first approach with iterative design, ensuring every pixel serves a purpose."
+            }
+        ]
+    }
+}

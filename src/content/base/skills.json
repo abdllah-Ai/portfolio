@@ -1,0 +1,168 @@
+[
+    {
+        "id": "3d-modeling",
+        "label": "3D Modeling",
+        "skills": [
+            {
+                "name": "Blender",
+                "level": 95,
+                "tip": "Industry-leading open-source 3D suite"
+            },
+            {
+                "name": "Cinema 4D",
+                "level": 85,
+                "tip": "Motion graphics and product visualization"
+            },
+            {
+                "name": "3ds Max",
+                "level": 80,
+                "tip": "Architectural visualization and game assets"
+            },
+            {
+                "name": "ZBrush",
+                "level": 88,
+                "tip": "High-poly sculpting and character design"
+            },
+            {
+                "name": "Maya",
+                "level": 75,
+                "tip": "Animation and rigging workflows"
+            }
+        ]
+    },
+    {
+        "id": "rendering",
+        "label": "Rendering & Lighting",
+        "skills": [
+            {
+                "name": "Octane Render",
+                "level": 90,
+                "tip": "GPU-accelerated photorealistic rendering"
+            },
+            {
+                "name": "Redshift",
+                "level": 85,
+                "tip": "Production-ready biased rendering"
+            },
+            {
+                "name": "V-Ray",
+                "level": 80,
+                "tip": "Architectural and product rendering"
+            },
+            {
+                "name": "Cycles",
+                "level": 88,
+                "tip": "Path tracing in Blender ecosystem"
+            },
+            {
+                "name": "HDRI Lighting",
+                "level": 92,
+                "tip": "Environment-based illumination"
+            }
+        ]
+    },
+    {
+        "id": "realtime",
+        "label": "Real-Time 3D",
+        "skills": [
+            {
+                "name": "Unreal Engine",
+                "level": 88,
+                "tip": "AAA-quality real-time experiences"
+            },
+            {
+                "name": "Unity",
+                "level": 82,
+                "tip": "Cross-platform interactive content"
+            },
+            {
+                "name": "Three.js",
+                "level": 78,
+                "tip": "WebGL 3D for browsers"
+            },
+            {
+                "name": "Lumen",
+                "level": 85,
+                "tip": "Real-time global illumination"
+            }
+        ]
+    },
+    {
+        "id": "texturing",
+        "label": "Texturing & Materials",
+        "skills": [
+            {
+                "name": "Substance Painter",
+                "level": 92,
+                "tip": "PBR texture painting"
+            },
+            {
+                "name": "Substance Designer",
+                "level": 85,
+                "tip": "Procedural material authoring"
+            },
+            {
+                "name": "Quixel Mixer",
+                "level": 80,
+                "tip": "Megascans integration"
+            },
+            {
+                "name": "UV Mapping",
+                "level": 88,
+                "tip": "Efficient texture space utilization"
+            }
+        ]
+    },
+    {
+        "id": "motion",
+        "label": "Motion & VFX",
+        "skills": [
+            {
+                "name": "After Effects",
+                "level": 85,
+                "tip": "Compositing and motion graphics"
+            },
+            {
+                "name": "Houdini",
+                "level": 75,
+                "tip": "Procedural simulations and FX"
+            },
+            {
+                "name": "DaVinci Resolve",
+                "level": 80,
+                "tip": "Color grading and editing"
+            },
+            {
+                "name": "Nuke",
+                "level": 70,
+                "tip": "Node-based compositing"
+            }
+        ]
+    },
+    {
+        "id": "design",
+        "label": "Design & Branding",
+        "skills": [
+            {
+                "name": "Figma",
+                "level": 88,
+                "tip": "UI/UX and design systems"
+            },
+            {
+                "name": "Adobe Illustrator",
+                "level": 82,
+                "tip": "Vector graphics and logos"
+            },
+            {
+                "name": "Photoshop",
+                "level": 85,
+                "tip": "Photo manipulation and textures"
+            },
+            {
+                "name": "Brand Strategy",
+                "level": 78,
+                "tip": "Visual identity development"
+            }
+        ]
+    }
+]
